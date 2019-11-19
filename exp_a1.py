@@ -1,4 +1,5 @@
 from qiskit.aqua.utils.circuit_factory import CircuitFactory
+import numpy as np
 
 class A1Factory(CircuitFactory):
     """
