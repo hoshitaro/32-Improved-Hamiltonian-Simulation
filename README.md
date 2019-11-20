@@ -14,6 +14,16 @@ The goal of the project would be to implement a circuit in-place version of the 
 
 * Paper 1 (for description of V): https://arxiv.org/pdf/1202.5822.pdf
 * Paper 2 (for description of a_j): https://arxiv.org/pdf/1907.11679.pdf
+# Members
+Qiskit Coach: @anedumla  
+@hoshitaro  
+@haoyudoingthings  
+@itsuka021  
+@masamuch  
+
 
 # Code
 The main code for our project is Five_circuit.ipynb
+
+# Result
+![](https://github.com/hoshitaro/32-Improved-Hamiltonian-Simulation/blob/master/%2332_result.png)
