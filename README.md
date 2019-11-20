@@ -28,10 +28,10 @@ There's another code for Calculating the result by using Lie-Trotter and Suzuki 
 
 # Result
 * The result from our Circuit and compare with result from Lie-Trotter and Suzuki Decomposition
-![](#32_result.png)
+![](https://github.com/hoshitaro/32-Improved-Hamiltonian-Simulation/blob/master/%2332_result.png)
 
 * The result from our Circuit but using different k value from reference paper.
-![](#32_result_dif_k.png)
+![](https://github.com/hoshitaro/32-Improved-Hamiltonian-Simulation/blob/master/%2332_result_dif_k.png)
 
 # Presentation
 [Presentation PowerPoint](Presentation_for_Qiskit_Camp_Asia_Team_32.pdf)
