@@ -12,5 +12,5 @@ Here, the larger the M, the better is the approximation to exp(iHt) but also the
 
 The goal of the project would be to implement a circuit in-place version of the above with Qiskit. The idea itself and a description of the implementation is given in https://arxiv.org/pdf/1907.11679.pdf .
 
-Paper 1 (for description of V): https://arxiv.org/pdf/1202.5822.pdf
-Paper 2 (for description of a_j): https://arxiv.org/pdf/1907.11679.pdf
+* Paper 1 (for description of V): https://arxiv.org/pdf/1202.5822.pdf
+* Paper 2 (for description of a_j): https://arxiv.org/pdf/1907.11679.pdf
