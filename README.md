@@ -23,7 +23,7 @@ Qiskit Coach: @anedumla
 
 
 # Code
-The main code for our project is Five_circuit.ipynb
+The main code for our project is [Main Code](Five_circuit.ipynb)
 
 # Result
 ![](https://github.com/hoshitaro/32-Improved-Hamiltonian-Simulation/blob/master/%2332_result.png)
